@@ -1,0 +1,11 @@
+com\springboot\projekPBO\controller\LoginController.class
+com\springboot\projekPBO\controller\QuestionController.class
+com\springboot\projekPBO\service\QuestionService.class
+com\springboot\projekPBO\repository\QuestionRepository.class
+com\springboot\projekPBO\ProjekPboApplication.class
+com\springboot\projekPBO\model\Question.class
+com\springboot\projekPBO\repository\UserRepository.class
+com\springboot\projekPBO\service\UserService.class
+com\springboot\projekPBO\controller\UserController.class
+com\springboot\projekPBO\service\IQuestionService.class
+com\springboot\projekPBO\entity\Users.class
